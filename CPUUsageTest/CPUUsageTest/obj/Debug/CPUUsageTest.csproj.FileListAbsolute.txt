@@ -1,0 +1,10 @@
+C:\RnD\CPUUsageTest\CPUUsageTest\bin\Debug\CPUUsageTest.exe.config
+C:\RnD\CPUUsageTest\CPUUsageTest\bin\Debug\CPUUsageTest.exe
+C:\RnD\CPUUsageTest\CPUUsageTest\bin\Debug\CPUUsageTest.pdb
+C:\RnD\CPUUsageTest\CPUUsageTest\obj\Debug\CPUUsageTest.Form1.resources
+C:\RnD\CPUUsageTest\CPUUsageTest\obj\Debug\CPUUsageTest.Properties.Resources.resources
+C:\RnD\CPUUsageTest\CPUUsageTest\obj\Debug\CPUUsageTest.csproj.GenerateResource.cache
+C:\RnD\CPUUsageTest\CPUUsageTest\obj\Debug\CPUUsageTest.csproj.CoreCompileInputs.cache
+C:\RnD\CPUUsageTest\CPUUsageTest\obj\Debug\CPUUsageTest.exe
+C:\RnD\CPUUsageTest\CPUUsageTest\obj\Debug\CPUUsageTest.pdb
+C:\RnD\CPUUsageTest\CPUUsageTest\obj\Debug\CPUUsageTest.csprojAssemblyReference.cache
